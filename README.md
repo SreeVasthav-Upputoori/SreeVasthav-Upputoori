@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀 **CADD Intern @ MorepenPDR** | 🎓 **Pharmaceutical Engineering @ BVRIT-N** | 🔬 **Building Open-Source Tools for Drug Discovery** | 💡 Exploring AI & Computational Chemistry
+🚀 **Research Associate (CADD Dept.) @ MorepenPDR** | 🎓 **Pharmaceutical Engineering @ BVRIT-N** | 🔬 **Building Open-Source Tools for Drug Discovery** | 💡 Exploring AI & Computational Chemistry
 
 
 ## 🌐 Socials:
